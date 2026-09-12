@@ -34,7 +34,7 @@
         </div>
       </div>
     </header>
-    <main class="w-full h-full flex flex-col max-md:justify-start max-md:pt-30 max-md:px-4 items-center justify-center gap-[35px]">
+    <main class="w-full h-full flex flex-col max-md:justify-start max-md:pt-40 max-md:px-4 items-center justify-center gap-[35px]">
     
       <div class="flex items-center justify-center gap-[55px] relative max-md:flex-wrap max-md:gap-5">
       <img src="/user_chilling.png" class="absolute -bottom-30 -left-24 max-xl:left-0 max-xl:-bottom-8 max-md:h-14"  alt="User chilling">
