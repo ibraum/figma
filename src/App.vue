@@ -39,11 +39,11 @@
       <div class="flex items-center justify-center gap-[55px] relative max-md:flex-wrap max-md:gap-5">
       <img src="/user_chilling.png" class="absolute -bottom-30 -left-24 max-xl:left-0 max-xl:bottom-2"  alt="User chilling">
       <img src="/user_ibraum.png" class="absolute -top-12 -right-24 max-xl:right-2"  alt="User chilling">
-        <img src="/Design_f.png" class="duration-300 hover:mb-4" alt="f">
-        <img src="/Design_f-1.png" class="duration-300 hover:mb-2" alt="f1">
-        <img src="/Design_f-2.png" class="duration-300 hover:mb-2" alt="f2">
-        <img src="/Design_f-3.png" class="duration-300 hover:mb-2" alt="f3">
-        <img src="/Design_f-4.png" class="duration-300 hover:mb-2" alt="f4">
+        <img src="/Design_f.png" class="duration-300 hover:mb-2 max-md:h-10" alt="f">
+        <img src="/Design_f-1.png" class="duration-300 hover:mb-2 max-md:h-10" alt="f1">
+        <img src="/Design_f-2.png" class="duration-300 hover:mb-2 max-md:h-10" alt="f2">
+        <img src="/Design_f-3.png" class="duration-300 hover:mb-2 max-md:h-10" alt="f3">
+        <img src="/Design_f-4.png" class="duration-300 hover:mb-2 max-md:h-10" alt="f4">
       </div>
       <div class="max-w-[600px] max-md:px-4 w-full text-[14px] text-center font-normal leading-6">
       Designed in Figma, this project focuses on clean, modern UI and seamless user experience. Built with scalable components and auto layout for consistency and flexibility. Interactive prototypes showcase smooth flows and responsive design across devices.
